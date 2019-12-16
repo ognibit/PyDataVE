@@ -51,3 +51,8 @@ IPython ha fatto da base al suo spin-off più importante: Jupyter Notebook.
 ## Juptyer Notebook
 
 ## Apache Zeppelin
+Andera Cannella ha presentato uno stesso caso d'uso usando il dataset Titanic
+e confrontando l'operatività tra Jupyter e Apache Zeppelin.
+
+Consiglio: installare Zeppelin su server linux, piuttosto che su windows
+locale.
