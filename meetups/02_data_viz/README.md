@@ -1,4 +1,4 @@
-#PyDataVE Data Visualization (31 Marzo 2020 - Online Version)
+# PyDataVE Data Visualization (31 Marzo 2020 - Online Version)
 Viene qui riportata una carrellata di tool open source e free per visualizzare
 i dati in maniera standard, ossia con grafici vari.
 
