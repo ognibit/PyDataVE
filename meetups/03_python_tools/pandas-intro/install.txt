@@ -1,0 +1,6 @@
+mkvirtualenv -p python3.6 esc
+workon esc
+pip install jupyterlab
+pip install RISE
+jupyter-nbextension install rise --py --sys-prefix
+pip install numpy pandas
